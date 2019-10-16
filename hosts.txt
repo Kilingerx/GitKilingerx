@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+[all]
+database
+web
+=======
+#[all]
+#database
+192.168.43.10
+>>>>>>> f42891f... Correction IP et nom d'utilisateurs
+
+[database]
+#192.168.28.130
+
+[web]
+#192.168.41.129
+
+[all:vars]
+ansible_user=root
+ansible_python_interpreter=/usr/bin/python3	

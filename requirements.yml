@@ -1,0 +1,6 @@
+---
+# role mysql from galaxy
+- src: geerlingguy.mysql
+#
+# role backup from galacy
+- src: ome.mysql_backup 
